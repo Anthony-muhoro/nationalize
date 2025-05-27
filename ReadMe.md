@@ -1,6 +1,6 @@
 # Nationalize Name Predictor
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 A simple web application that predicts the nationality of a given name using the [nationalize.io](https://nationalize.io/) API.
 
